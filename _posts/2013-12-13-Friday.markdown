@@ -1,0 +1,18 @@
+---
+layout: default
+title: Markdown Page
+---
+
+>>Here is my first markdown post
+
+{% highlight c %}
+
+/* Hello World */
+#include <studio>
+int main(int argc, char **argv)
+{
+    printf("Hello World!\n");
+    return 0;
+}
+{% endhighlight %}
+
