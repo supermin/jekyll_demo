@@ -1,2 +1,4 @@
 baseurl: /jekyll_demo
-
+pygments: true
+markdown: redcarpet
+name: supermin
